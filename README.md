@@ -43,7 +43,7 @@ I was inspired to build a responsive real estate landing page by a combination o
 
 This portfolio project was conducted as part of the [ALX-SE](https://www.alxafrica.com/) programme's curriculum. The implementation of this [portfolio project](https://github.com/Dchedos/responsive-real-estate-landing-page) was carried out within 2 weeks.
 
-Nchedo Okongwu - [Github](https://github.com/Dchedos) [LinkedIn](https://www.linkedin.com/in/nchedo-okongwu-3b5a1681)
+Nchedo Okongwu - [Github](https://github.com/Dchedos) /[LinkedIn](https://www.linkedin.com/in/nchedo-okongwu-3b5a1681)
 
 ## License
 Public Domain. No copy write protection.
