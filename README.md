@@ -41,7 +41,7 @@ Contributions to this project are welcome! If you have any ideas, suggestions, o
 ## Author
 I was inspired to build a responsive real estate landing page by a combination of personal fascination with the real estate industry and awareness of the growing importance of mobile-friendly and visually appealing websites. With this project, I aim to demonstrate my proficiency in web development technologies while providing users with a seamless navigation experience, clear interfaces, and engaging visuals. I aspire to contribute to the advancement of the real estate industry's digital presence by developing a platform that balances design and function and adding a useful skill to my web development portfolio.
 
-This portfolio project was conducted as part of the [ALX-SE] (https://www.alxafrica.com/) programme's curriculum. The implementation of this portfolio project (https://github.com/Dchedos/responsive-real-estate-landing-page) was carried out within 2 weeks.
+This portfolio project was conducted as part of the [ALX-SE](https://www.alxafrica.com/) programme's curriculum. The implementation of this [portfolio project](https://github.com/Dchedos/responsive-real-estate-landing-page) was carried out within 2 weeks.
 
 Nchedo Okongwu - [Github](https://github.com/Dchedos) [LinkedIn](https://www.linkedin.com/in/nchedo-okongwu-3b5a1681)
 
