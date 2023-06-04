@@ -11,7 +11,7 @@ Welcome to the Responsive Real Estate Landing Page project! This is a ALX portfo
 * [License](#license)
 
 ## Features
-* Responsive Design: The landing page is designed to be responsive, adapting to different screen sizes and devices. It provides a seamless experience across [desktop](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/desktop.png), [tablet](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/tablet.png), and [mobile]() platforms.
+* Responsive Design: The landing page is designed to be responsive, adapting to different screen sizes and devices. It provides a seamless experience across [desktop](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/desktop.png), [tablet](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/tablet.png), and [mobile](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/mobile.png) platforms.
 * Modern UI/UX: The user interface and user experience are carefully crafted to provide an engaging and intuitive browsing experience. The design elements are visually appealing, and the page layout is optimized for ease of use.
 * Property Showcase: The landing page includes a property showcase section where various real estate listings are displayed. Users can browse through the available properties, view images and read descriptions.
 * Image Slider: The [hero](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/hero.png) section utilizes the Swiper.js library to create an interactive image slider. Users can swipe through property images or use navigation buttons to explore different properties easily.
