@@ -11,11 +11,11 @@ Welcome to the Responsive Real Estate Landing Page project! This is a ALX portfo
 * [License](#license)
 
 ## Features
-* Responsive Design: The landing page is designed to be responsive, adapting to different screen sizes and devices. It provides a seamless experience across desktop, tablet, and mobile platforms.
+* Responsive Design: The landing page is designed to be responsive, adapting to different screen sizes and devices. It provides a seamless experience across desktop, tablet, and mobile platforms [link]().
 * Modern UI/UX: The user interface and user experience are carefully crafted to provide an engaging and intuitive browsing experience. The design elements are visually appealing, and the page layout is optimized for ease of use.
-* Property Showcase: The landing page includes a property showcase section where various real estate listings are displayed. Users can browse through the available properties, view images, read descriptions, and access additional details.
-* Image Slider: The property showcase section utilizes the Swiper.js library to create an interactive image slider. Users can swipe through property images or use navigation buttons to explore different properties easily.
-* Contact Form: The landing page includes a contact form that allows potential buyers to submit inquiries or requests for more information. The form collects user input and can be easily customized to suit specific needs.
+* Property Showcase: The landing page includes a property showcase section where various real estate listings are displayed. Users can browse through the available properties, view images and read descriptions.
+* Image Slider: The hero section utilizes the Swiper.js library to create an interactive image slider. Users can swipe through property images or use navigation buttons to explore different properties easily [link]().
+* Contact Form: The landing page includes a contact form that allows potential buyers to submit inquiries or requests for more information. The form collects user input and can be easily customized to suit specific needs [link]().
 
 ## Technologies
 The project is built using the following technologies:
@@ -39,7 +39,11 @@ Feel free to customize the content, styles, and images to match your own prefere
 Contributions to this project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Make sure to follow the existing code style and guidelines.
 
 ## Author
-Nchedo Okongwu - [Github](https://github.com/Dchedos)
+I was inspired to build a responsive real estate landing page by a combination of personal fascination with the real estate industry and awareness of the growing importance of mobile-friendly and visually appealing websites. With this project, I aim to demonstrate my proficiency in web development technologies while providing users with a seamless navigation experience, clear interfaces, and engaging visuals. I aspire to contribute to the advancement of the real estate industry's digital presence by developing a platform that balances design and function and adding a useful skill to my web development portfolio.
+
+This portfolio project was conducted as part of the [ALX-SE] (https://www.alxafrica.com/) programme's curriculum. The implementation of this portfolio project (https://github.com/Dchedos/responsive-real-estate-landing-page) was carried out within 2 weeks.
+
+Nchedo Okongwu - [Github](https://github.com/Dchedos) [LinkedIn](https://www.linkedin.com/in/nchedo-okongwu-3b5a1681)
 
 ## License
 Public Domain. No copy write protection.
