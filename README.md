@@ -15,7 +15,7 @@ Welcome to the Responsive Real Estate Landing Page project! This is a ALX portfo
 * Modern UI/UX: The user interface and user experience are carefully crafted to provide an engaging and intuitive browsing experience. The design elements are visually appealing, and the page layout is optimized for ease of use.
 * Property Showcase: The landing page includes a property showcase section where various real estate listings are displayed. Users can browse through the available properties, view images and read descriptions.
 * Image Slider: The [hero](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/hero.png) section utilizes the Swiper.js library to create an interactive image slider. Users can swipe through property images or use navigation buttons to explore different properties easily.
-* Contact Form: The landing page includes a [contact form]() that allows potential buyers to submit inquiries or requests for more information. The form collects user input and can be easily customized to suit specific needs.
+* Contact Form: The landing page includes a [contact form](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/contact-form.png) that allows potential buyers to submit inquiries or requests for more information. The form collects user input and can be easily customized to suit specific needs.
 
 ## Technologies
 The project is built using the following technologies:
