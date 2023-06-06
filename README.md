@@ -1,5 +1,6 @@
 # Responsive Real Estate Landing Page
 Welcome to the Responsive Real Estate Landing Page project! This is a ALX portfolio project that demonstrates the development of a responsive landing page for a real estate website. The landing page is designed to be visually appealing and user-friendly, providing an immersive experience for potential real estate buyers.
+Attached is a short [YouTube](https://youtu.be/QDFeEoPWbxE) video introducing the landing page. The Responsive Real Estate Landing Page was deployed on [GitHub Pages](https://dchedos.github.io/responsive-real-estate-landing-page/) and [Netlify](https://dchedos-real-estate-landing-page.netlify.app/).
 
 ## Table of Contents
 * [Features](#features)
