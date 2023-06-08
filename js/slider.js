@@ -1,5 +1,4 @@
 const swiper = new Swiper(".heroslider", {
-  spaceBetween: 30,
   slidesPerView: 1,
   spaceBetween: 30,
   loop: true,
