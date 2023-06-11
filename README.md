@@ -1,8 +1,12 @@
 # Responsive Real Estate Landing Page
+
+![image](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/hero.png)
+
 Welcome to the Responsive Real Estate Landing Page project! This is a ALX portfolio project that demonstrates the development of a responsive landing page for a real estate website. The landing page is designed to be visually appealing and user-friendly, providing an immersive experience for potential real estate buyers.
 Attached is a short [YouTube](https://youtu.be/QDFeEoPWbxE) video introducing the landing page. The Responsive Real Estate Landing Page was deployed on [GitHub Pages](https://dchedos.github.io/responsive-real-estate-landing-page/) and [Netlify](https://dchedos-real-estate-landing-page.netlify.app/).
 
 ## Table of Contents
+* [Project Inspiration](#project inspiration)
 * [Features](#features)
 * [Technologies](#technologies)
 * [Installation](#installation)
@@ -10,6 +14,11 @@ Attached is a short [YouTube](https://youtu.be/QDFeEoPWbxE) video introducing th
 * [Contributing](#contributing)
 * [Author](#author)
 * [License](#license)
+
+## Project Inspiration
+The inspiration for this project came from my passion for both the real estate industry and web development. I wanted to create a visually appealing and user-friendly landing page that showcases properties in an interactive and responsive manner.
+
+By blending my interests, I aimed to create a valuable and practical project for potential users and demonstrate my skills as a web developer. You can see more of my story on my [blog post]().
 
 ## Features
 * Responsive Design: The landing page is designed to be responsive, adapting to different screen sizes and devices. It provides a seamless experience across [desktop](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/desktop.png), [tablet](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/tablet.png), and [mobile](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/mobile.png) platforms.
