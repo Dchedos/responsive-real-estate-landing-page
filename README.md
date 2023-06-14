@@ -18,7 +18,7 @@ Attached is a short [YouTube](https://youtu.be/QDFeEoPWbxE) video introducing th
 ## Project Inspiration
 The inspiration for this project came from my passion for both the real estate industry and web development. I wanted to create a visually appealing and user-friendly landing page that showcases properties in an interactive and responsive manner.
 
-By blending my interests, I aimed to create a valuable and practical project for potential users and demonstrate my skills as a web developer. You can see more of my story on my [blog post]().
+By blending my interests, I aimed to create a valuable and practical project for potential users and demonstrate my skills as a web developer. Find more on my [project blog post](https://dchedos.hashnode.dev/responsive-real-estate-landing-page).
 
 ## Features
 * Responsive Design: The landing page is designed to be responsive, adapting to different screen sizes and devices. It provides a seamless experience across [desktop](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/desktop.png), [tablet](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/tablet.png), and [mobile](https://github.com/Dchedos/responsive-real-estate-landing-page/blob/main/assets/mobile.png) platforms.
